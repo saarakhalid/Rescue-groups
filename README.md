@@ -12,7 +12,8 @@ Explore the available pets, search for specific breeds, and learn about their de
 Click on the "Adopt" button to express interest in adopting a pet.
 
 set up instructions
-git clone https://github.com/your-username/rescue-groups.git cd flatdango npm install
+git clone https://github.com/your-username/rescue-groups.git 
+npm install
 
 Author
 saarakhalid
