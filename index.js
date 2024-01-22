@@ -1,5 +1,15 @@
 document.addEventListener('DOMContentLoaded', function () {
-    
+
+      // Event listener for fetching data
+    document.getElementById('fetch-data').addEventListener('click', fetchData);
+
+    // Event listener for like button
+    document.getElementById('like-button').addEventListener('click', like);
+
+    // Event listener for adding a comment
+    document.getElementById('comment-button').addEventListener('click', addComment);
+
+    // API endpoint for pet data
     const apiEndpoint = 'https://publicapis.io/rescue-groups-animals-api' ;
 
     // Fetch data from the API
