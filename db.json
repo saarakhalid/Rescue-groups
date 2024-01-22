@@ -1,37 +1,37 @@
 {
-"pets": [
-  {
-    "id": 1,
-    "name": "Leo",
-    "breed": "Bengal Cat",
-    "image": "https://source.unsplash.com/nKC772R_qog"
-  },
-  {
-    "id": 2,
-    "name": "Ruby",
-    "breed": "Dwarf Hotot Rabbit",
-    "image": "https://source.unsplash.com/u_kMWN-BWyU"
-  },
-  {
-    "id": 3,
-    "name": "Rocky",
-    "breed": "American Bulldog",
-    "image": "https://source.unsplash.com/oU6KZTXhuvk"
-  },
-  {
-    "id": 4,
-    "name": "Kenzy",
-    "breed": "Ara Parrot",
-    "image": "https://source.unsplash.com/vzVWYIr6F8U"
+  "pets": [
+    {
+      "id": 1,
+      "name": "Leo",
+      "breed": "Bengal Cat",
+      "image": "https://source.unsplash.com/nKC772R_qog"
+    },
+    {
+      "id": 2,
+      "name": "Ruby",
+      "breed": "Dwarf Hotot Rabbit",
+      "image": "https://source.unsplash.com/u_kMWN-BWyU"
+    },
+    {
+      "id": 3,
+      "name": "Rocky",
+      "breed": "American Bulldog",
+      "image": "https://source.unsplash.com/oU6KZTXhuvk"
+    },
+    {
+      "id": 4,
+      "name": "Kenzy",
+      "breed": "Ara Parrot",
+      "image": "https://source.unsplash.com/vzVWYIr6F8U"
+    }
+  ],
+  "senssy": {
+    "name": "Senssy",
+    "location": "Kenya",
+    "age": "2 years",
+    "sex": "Male",
+    "height": "42cm",
+    "weight": "5.4kg",
+    "description": "With a coat as soft as silk and eyes that sparkle with curiosity, Senssy is a charming cat looking for a family to call his own. His gentle purrs will surely melt your heart. Consider giving Senssy a loving home filled with treats and cuddles!"
   }
-],
-"senssy": {
-  "name": "Senssy",
-  "location": "Kenya",
-  "age": "2 years",
-  "sex": "Male",
-  "height": "42cm",
-  "weight": "5.4kg",
-  "description": "With a coat as soft as silk and eyes that sparkle with curiosity, Senssy is a charming cat looking for a family to call his own. His gentle purrs will surely melt your heart. Consider giving Senssy a loving home filled with treats and cuddles!"
-}
 }
